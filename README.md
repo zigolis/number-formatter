@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/zigolis/number-formatter.svg?branch=master)](https://travis-ci.org/zigolis/number-formatter)
-
 [![Coverage Status](https://coveralls.io/repos/zigolis/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/zigolis/number-formatter?branch=master)
 
 Number Formatter
