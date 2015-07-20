@@ -1,6 +1,6 @@
 {
   "name": "number-formatter-zig",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic node module example",
   "main": "index.js",
   "scripts": {
